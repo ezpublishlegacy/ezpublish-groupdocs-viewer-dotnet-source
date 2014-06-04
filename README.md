@@ -15,7 +15,7 @@ With GroupDocs Viewer for .NET plugin for ezPublish you can easily view on [anno
 
 
 ###[Sign, Manage, Annotate, Assemble, Compare and Convert Documents with GroupDocs](http://groupdocs.com)
-* [Annotate PDF, Word, Excel, Powerpoint and Images with GroupDocs Viewer](http://groupdocs.com/apps/Viewer)
+* [View PDF, Word, Excel, Powerpoint and Images with GroupDocs.Viewer for .NET Library](http://groupdocs.com/dot-net/document-viewer-library)
 * [See GroupDocs Viewer for .NET plugin for ez Publish CMS](https://github.com/groupdocs/ezpublish-groupdocs-viewer-dotnet)
 
 ###Created by [GroupDocs Marketplace Team](http://groupdocs.com/marketplace/).
